@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "控件的创建", "控件的创建\控件的创建.vcxproj", "{BD43D1F9-BD97-4F6C-BDD2-4AA2E1A8E40C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "映射控件消息", "映射控件消息\映射控件消息.vcxproj", "{1A1C3B05-17D2-4364-9575-5568AC60A891}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "复选框", "复选框\复选框.vcxproj", "{EFFD4281-31EA-4A6D-BE2A-2819B353AE74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单选按钮", "单选按钮\单选按钮.vcxproj", "{CCC5829E-00BC-4992-B9E0-D54E949BF88F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "鲜花选择", "鲜花选择\鲜花选择.vcxproj", "{6B9905F3-98E7-47A8-90CA-5B20C95C29C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD43D1F9-BD97-4F6C-BDD2-4AA2E1A8E40C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD43D1F9-BD97-4F6C-BDD2-4AA2E1A8E40C}.Debug|Win32.Build.0 = Debug|Win32
+		{BD43D1F9-BD97-4F6C-BDD2-4AA2E1A8E40C}.Release|Win32.ActiveCfg = Release|Win32
+		{BD43D1F9-BD97-4F6C-BDD2-4AA2E1A8E40C}.Release|Win32.Build.0 = Release|Win32
+		{1A1C3B05-17D2-4364-9575-5568AC60A891}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A1C3B05-17D2-4364-9575-5568AC60A891}.Debug|Win32.Build.0 = Debug|Win32
+		{1A1C3B05-17D2-4364-9575-5568AC60A891}.Release|Win32.ActiveCfg = Release|Win32
+		{1A1C3B05-17D2-4364-9575-5568AC60A891}.Release|Win32.Build.0 = Release|Win32
+		{EFFD4281-31EA-4A6D-BE2A-2819B353AE74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EFFD4281-31EA-4A6D-BE2A-2819B353AE74}.Debug|Win32.Build.0 = Debug|Win32
+		{EFFD4281-31EA-4A6D-BE2A-2819B353AE74}.Release|Win32.ActiveCfg = Release|Win32
+		{EFFD4281-31EA-4A6D-BE2A-2819B353AE74}.Release|Win32.Build.0 = Release|Win32
+		{CCC5829E-00BC-4992-B9E0-D54E949BF88F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCC5829E-00BC-4992-B9E0-D54E949BF88F}.Debug|Win32.Build.0 = Debug|Win32
+		{CCC5829E-00BC-4992-B9E0-D54E949BF88F}.Release|Win32.ActiveCfg = Release|Win32
+		{CCC5829E-00BC-4992-B9E0-D54E949BF88F}.Release|Win32.Build.0 = Release|Win32
+		{6B9905F3-98E7-47A8-90CA-5B20C95C29C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B9905F3-98E7-47A8-90CA-5B20C95C29C8}.Debug|Win32.Build.0 = Debug|Win32
+		{6B9905F3-98E7-47A8-90CA-5B20C95C29C8}.Release|Win32.ActiveCfg = Release|Win32
+		{6B9905F3-98E7-47A8-90CA-5B20C95C29C8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

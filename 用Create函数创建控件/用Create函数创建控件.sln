@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用Create函数创建控件", "用Create函数创建控件\用Create函数创建控件.vcxproj", "{D9F2C337-6CD7-4C46-95DA-E31B0D28AEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F2C337-6CD7-4C46-95DA-E31B0D28AEF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9F2C337-6CD7-4C46-95DA-E31B0D28AEF0}.Debug|Win32.Build.0 = Debug|Win32
+		{D9F2C337-6CD7-4C46-95DA-E31B0D28AEF0}.Release|Win32.ActiveCfg = Release|Win32
+		{D9F2C337-6CD7-4C46-95DA-E31B0D28AEF0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
